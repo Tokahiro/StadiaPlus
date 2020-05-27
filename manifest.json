@@ -1,9 +1,9 @@
 {
-    "name": "Stadia+ Extension",
+    "name": "Stadia+ Extension with 1440p",
     "short_name": "Stadia+",
-    "version": "2.3.4",
-    "author": "Malte Klüft (Mafrans)",
-    "description": "Extends Google's Stadia gaming platform with additional features, such as custom filters and in game network monitoring.",
+    "version": "2.4",
+    "author": "Tobin",
+    "description": "Extends Google's Stadia gaming platform with additional features, such as custom filters and in game network monitoring. This Extension is a fork from Mafrans https://github.com/Mafrans/StadiaPlus, with 1440p support. Without him, this extension would not exist.",
     "permissions": [
         "declarativeContent",
         "storage",
