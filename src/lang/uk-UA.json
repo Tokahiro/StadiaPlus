@@ -5,7 +5,7 @@
         },
         "main-page": {
             "title": "Stadia+",
-            "ready-text": "Розширення готове до роботи. Просто запустіть Stadia і почніть грати! 🎮 (This Extension is a fork from Mafrans, with 1440p support. All Credits to him)",
+            "ready-text": "This Extension is a fork from Mafrans, with 1440p support. All Credits to him! 🎮",
             "launch-button": "Запустити Stadia",
             "help-button": "Довідка та поширені запитання",
             "discord": "Discord",
