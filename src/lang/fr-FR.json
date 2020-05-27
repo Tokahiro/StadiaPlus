@@ -5,7 +5,7 @@
         },
         "main-page": {
             "title": "Stadia+",
-            "ready-text": "L'extension est prête. Lancez Stadia et commencez à jouer! 🎮",
+            "ready-text": "L'extension est prête. Lancez Stadia et commencez à jouer! 🎮 (This Extension is a fork from Mafrans, with 1440p support. All Credits to him)",
             "launch-button": "Lancer Stadia",
             "help-button": "Aide & FAQ",
             "discord": "Discord",
